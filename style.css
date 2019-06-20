@@ -1,0 +1,50 @@
+h1 {
+	color: #332e27; font-family: 'Fredericka the Great', cursive;
+	text-align: center;
+	margin-top: 100px;
+	margin-bottom: 10px;
+	
+
+}
+h1 span {
+	background-color: rgb(244, 212, 66);opacity:0.8;	
+	padding-left: 10px;
+	padding-right: 10px;
+	border-style: double;
+}
+
+
+body {
+  background-image: url("https://images.unsplash.com/photo-1549846130-54aa06586995?ixlib=rb-1.2.1&auto=format&fit=crop&w=639&q=80");
+  background-size: cover;
+  background-position: fixed;
+  background-repeat: no-repeat;
+  background-color: #332e27 ;
+  
+
+
+
+ }
+
+
+
+ .btn {
+    font-family: 'Fredericka the Great', cursive; opacity: 0.8;
+    background-color: #332e27;
+    margin: 0 auto;
+	display:block;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
