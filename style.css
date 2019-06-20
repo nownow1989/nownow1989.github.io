@@ -8,9 +8,8 @@ h1 {
 }
 h1 span {
 	background-color: rgb(244, 212, 66);opacity:0.8;	
-	padding-left: 10px;
-	padding-right: 10px;
 	border-style: double;
+	display:block;
 }
 
 
@@ -20,10 +19,6 @@ body {
   background-position: fixed;
   background-repeat: no-repeat;
   background-color: #332e27 ;
-  
-
-
-
  }
 
 
